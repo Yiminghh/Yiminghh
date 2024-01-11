@@ -2,9 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yiminghh&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
-I am **Yiming Huang (黄一鸣)**, a master student at the [Institute of Fundamental and Frontier Sciences](https://www.iffs.uestc.edu.cn/), [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+I am **Yiming Huang (黄一鸣)**, a master student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
 
-Welcome to my [homepage](https://yimingh.top/). Thank you for following me.
+Thank you for following me. Welcome to my [homepage](https://yimingh.top/). 
 
 🔭 I’m currently working on counting stars...
 
@@ -12,7 +12,7 @@ Welcome to my [homepage](https://yimingh.top/). Thank you for following me.
 
 🏠 I am currently in Chengdu, Sichuan, China.
 
-📫 How to reach me: yimingh999 at foxmail.com
+📫 How to reach me: yimingh999 [at] foxmail.com
 
 <img align="left"
   alt="Top Langs"

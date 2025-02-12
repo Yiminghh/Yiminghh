@@ -14,7 +14,7 @@ Thank you for following me. Welcome to my [homepage](https://yimingh.top/).
 
 🏠 I am currently in London, UK.
 
-📫 How to reach me: yimingh999 [at] foxmail.com
+📫 How to reach me: yimingh999 [at] gmail.com
 
 <img align="left"
   alt="Top Langs"

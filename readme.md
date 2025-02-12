@@ -2,7 +2,9 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Yiminghh&show_icons=true&icon_color=0366d6&text_color=24292e&bg_color=ffffff&hide_title=false" />
 
-I am **Yiming Huang**, a master student at [University of Electronic Science and Technology of China (UESTC)](https://www.uestc.edu.cn/), advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+I am **Yiming Huang (黄一鸣)**, a PhD student and Lee Family scholar in the [CIRCLE](https://tolgabirdal.github.io/) Group at *Imperial College London*, advised by Prof. [Tolga Birdal](https://tolgabirdal.github.io/). 
+Previously, I obtained an MSc in Computer Science and Technology from the *University of Electronic Science and Technology of China (UESTC)*, advised by Prof. [Linyuan Lü](https://linyuanlab.com/).
+
 
 Thank you for following me. Welcome to my [homepage](https://yimingh.top/). 
 
@@ -10,7 +12,7 @@ Thank you for following me. Welcome to my [homepage](https://yimingh.top/).
 
 💬 You can ask me any questions.
 
-🏠 I am currently in Chengdu, Sichuan, China.
+🏠 I am currently in London, UK.
 
 📫 How to reach me: yimingh999 [at] foxmail.com
 
